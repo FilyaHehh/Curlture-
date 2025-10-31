@@ -7,6 +7,6 @@
 </ul>
 </div>
 
-.readme ul{
+ul{
 list-style:none;
->
+}
