@@ -442,4 +442,29 @@ a {
 .title_footer {
   margin-left: 38PX;
   font-size: 40px;
-}/*# sourceMappingURL=styles.css.map */
+}
+
+.pfp{
+    margin-bottom: 30px;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.el_2{
+    position: absolute;
+    left: 54px;
+}
+.el_3{
+    position: absolute;
+    left: 108px;
+}
+.el_4{
+    position: absolute;
+    left: 162px;
+}
+.el_5{
+    position: absolute;
+    left: 250px;
+}
+/*# sourceMappingURL=styles.css.map */
